@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=40F1F7&center=true&width=435&lines=yebatlet)](https://git.io/typing-svg)
 
-<!--
-**yebatlet/yebatlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a>
+      <img width="200" height="28" src="https://komarev.com/ghpvc/?username=yebatlet&style=flat-square&color=03f0fc" alt=""/>
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<hr /> 
+
+<a href="https://github.com/yebatlet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yebatlet&show_icons=true&line_height=27&count_private=true&title_color=03fcec&text_color=03fcec&icon_color=fff&bg_color=121212" />
+</a>
+  
+<hr />
+  <h3 align="center">Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yebatlet&theme=tokyonight&layout=compact">
+  </a>
+</div>
